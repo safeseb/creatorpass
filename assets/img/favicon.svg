@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
-  <circle cx="128" cy="128" r="120" fill="#7c3aed"/>
-  <!-- Clean CP monogram -->
-  <path fill="#ffffff" d="M86 82c-24 0-44 20-44 46s20 46 44 46h26v-18H86c-15 0-26-12-26-28s11-28 26-28h26V82H86z"/>
-  <path fill="#ffffff" d="M144 82v92h38c18 0 32-14 32-31s-14-31-32-31h-20v-30h-18zm18 48h20c8 0 14 6 14 13s-6 13-14 13h-20v-26z"/>
-</svg>
