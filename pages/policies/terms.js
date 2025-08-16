@@ -1,0 +1,2 @@
+import Head from 'next/head'; import Header from '../../components/Header'; import Footer from '../../components/Footer';
+export default function Terms(){ return (<><Head><title>CreatorPass — Terms</title></Head><Header/><main className='container'><h1 className='h1'>Terms of Service</h1><p className='sub'>Effective 2025-08-16</p><p>By using CreatorPass you agree to these Terms. You must be at least 18. Businesses agree to provide listed goods/services; creators agree to posting requirements. Misuse is prohibited.</p></main><Footer/></>); }}
